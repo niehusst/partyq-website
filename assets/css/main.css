@@ -4147,3 +4147,9 @@ input, select, textarea {
 		}
 
 	}
+
+/* App store button styles */
+.store-img {
+    height: auto;
+    width: 240px;
+}
